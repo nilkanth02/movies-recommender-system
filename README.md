@@ -77,7 +77,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, you can reach out to:
 
-- **Nilkanth D. Ahire** - [nilkanth@gmail.com](mailto:nilkanth@gmail.com)
+- **Nilkanth D. Ahire** - [nilkanth8747@gmail.com](mailto:nilkanth8747@gmail.com)
 - **GitHub Profile** - [nilkanth02](https://github.com/nilkanth02)
 
 Happy recommending!

@@ -24,7 +24,7 @@ To get started with this project, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/movie-recommender-system.git
+git clone https://github.com/nilkanth02/movie-recommender-system.git
 cd movie-recommender-system
 ```
 

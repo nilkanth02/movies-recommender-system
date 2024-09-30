@@ -69,9 +69,7 @@ The project uses the TMDb API to fetch movie posters. You'll need a valid TMDb A
 
 We welcome contributions! Feel free to fork the repository and submit pull requests. If you have suggestions or improvements, let us know.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 

@@ -54,7 +54,7 @@ streamlit run app.py
 3. **Interact with the Web App**:
    - Open your web browser and go to [http://localhost:8501](http://localhost:8501).
    - Select a movie from the dropdown list.
-   - Click the "Show Recommendation" button to view recommended movies.
+   - Click the "Show Recommendation" button to view recommended movies
 
 ## Data Files
 
